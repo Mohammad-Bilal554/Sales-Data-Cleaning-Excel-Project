@@ -17,7 +17,7 @@ The dataset included product, price, and review information, and the goal was to
    - Removed unwanted symbols (`â‚¹`) from `discounted_price` and `actual_price`.  
    - Converted text to **numeric format**.  
    - Verified and recalculated `discount_percentage` using:
-   =(actual_price - discounted_price)/actual_price*100
+   =(actual_price - discounted_price)/actual_price*100 in Excel.
 
 4. **Standardized Text Columns**
    - Cleaned `category` and `product_name` using **TRIM()** to remove extra spaces.  
