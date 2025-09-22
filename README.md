@@ -1,7 +1,7 @@
 # Sales Data Cleaning – Excel Project
 
 ## Project Overview
-This project is part of my internship at **Elevate Labs**, focused on **data cleaning and preprocessing** using **Excel**.  
+This project focuses on cleaning and preparing data with **Excel**.
 The dataset included product, price, and review information, and the goal was to make it **clean, consistent, and ready for analysis**.
 
 ## Steps Performed
