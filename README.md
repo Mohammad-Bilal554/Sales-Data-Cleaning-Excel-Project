@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project focuses on cleaning and preparing data with **Excel**.
-The dataset included product, price, and review information, and the goal was to make it **clean, consistent, and ready for analysis**.
+The dataset had information about products, prices, and reviews, and the purpose was to **clean it up, make it consistent, and get it ready for analysis**.
 
 ## Steps Performed
 
