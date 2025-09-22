@@ -16,7 +16,7 @@ The dataset had information about products, prices, and reviews, and the purpose
 3. **Cleaned and standardized prices** 
    - Removed unwanted symbols (`â‚¹`) from `discounted_price` and `actual_price`.  
    - Converted text to **numeric format**.  
-   - Verified and recalculated `discount_percentage` using:
+   - Verified and re-calculated `discount_percentage` using:
    =(actual_price - discounted_price)/actual_price*100 in Excel.
 
 4. **Standardized Text Columns**
